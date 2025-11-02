@@ -10,7 +10,7 @@
     "IrkedIntrovert": "320",
     "Phantoms": "322",
     "Gudde": "320",
-    "Glorf": "320",
+    "Glorf": "220",
     "Born2Obey": "221",
     "Twix": "220",
     "FarmerJoe": "321",
@@ -196,7 +196,8 @@
     "IrkedMage": "322",
     "Diaz": "320",
     "Hauge": "224",
-    "Grindr": "121"
+    "Grindr": "121",
+    "Mizurio": "122"
   },
   "last_run_source": "online"
 }
