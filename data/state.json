@@ -109,7 +109,7 @@
     "HotDog": "224",
     "Beeru": "324",
     "Bricks": "221",
-    "AntsInThePants": "221",
+    "AntsInThePants": "220",
     "Auralion": "222",
     "Yoshimitsu": "320",
     "Endorphin": "221",
@@ -220,7 +220,8 @@
     "Saruman": "322",
     "xiNN": "324",
     "Neuer": "221",
-    "Booster": "320"
+    "Booster": "320",
+    "Algiz": "121"
   },
   "last_run_source": "online"
 }
