@@ -292,7 +292,9 @@
     "Serenity": "224",
     "Drake": "321",
     "Elunaria": "324",
-    "Trisan": "320"
+    "Trisan": "320",
+    "SchwarzwaldToggle": "223",
+    "SchwarzwaldTank": "220"
   },
   "last_run_source": "online"
 }
