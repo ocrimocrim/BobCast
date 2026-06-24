@@ -2,7 +2,7 @@
   "players": {
     "Threnody": "220",
     "Nalthis": "223",
-    "Dragneel": "320",
+    "Dragneel": "220",
     "Cardmaster": "224",
     "JustAnAmazingGuy": "323",
     "Albert": "221",
@@ -322,5 +322,5 @@
     "ToggleSumSum": "324",
     "Baumwurzel": "223"
   },
-  "last_run_source": "online"
+  "last_run_source": "ranking"
 }
