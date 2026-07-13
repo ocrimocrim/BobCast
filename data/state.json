@@ -1,6 +1,6 @@
 {
   "players": {
-    "Threnody": "220",
+    "Threnody": "223",
     "Nalthis": "220",
     "Dragneel": "322",
     "Cardmaster": "224",
@@ -329,5 +329,5 @@
     "Thalia": "121",
     "HappyTree": "121"
   },
-  "last_run_source": "online"
+  "last_run_source": "ranking"
 }
