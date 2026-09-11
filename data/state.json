@@ -308,7 +308,7 @@
     "Enanthate": "322",
     "Noctriel": "321",
     "Quark": "224",
-    "Happyguard": "220",
+    "Happyguard": "221",
     "HoneyWesp": "121",
     "MystioMerc": "221",
     "Ashborne": "220",
@@ -346,5 +346,5 @@
     "Moriyati": "124",
     "Sadtrip": "121"
   },
-  "last_run_source": "ranking"
+  "last_run_source": "online"
 }
