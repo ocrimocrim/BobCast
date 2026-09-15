@@ -339,7 +339,7 @@
     "mauerfalke": "320",
     "Action": "322",
     "Niemand": "224",
-    "Wolf": "320",
+    "Wolf": "322",
     "Kyraxi": "324",
     "Noelle": "224",
     "Deathnight": "322",
@@ -354,5 +354,5 @@
     "Seonax": "320",
     "Ambrosia": "224"
   },
-  "last_run_source": "ranking"
+  "last_run_source": "online"
 }
