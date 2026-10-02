@@ -43,7 +43,7 @@
     "Taldain": "121",
     "Arishem": "320",
     "Arcana": "322",
-    "Glorp": "222",
+    "Glorp": "121",
     "Dragneeel": "223",
     "Eternal": "324",
     "Jeho": "222",
@@ -379,5 +379,5 @@
     "Bash": "120",
     "Invigoratioz": "320"
   },
-  "last_run_source": "online"
+  "last_run_source": "ranking"
 }
