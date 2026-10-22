@@ -247,7 +247,7 @@
     "segitsmar": "320",
     "Ronaka": "322",
     "ShadowEminence": "324",
-    "Clyde": "320",
+    "Clyde": "122",
     "MINT": "221",
     "Kinza": "220",
     "Minus": "224",
@@ -392,5 +392,5 @@
     "Nobody": "121",
     "Solodings": "224"
   },
-  "last_run_source": "online"
+  "last_run_source": "ranking"
 }
